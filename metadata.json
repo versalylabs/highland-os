@@ -1,0 +1,6 @@
+{
+  "name": "Highland Gardens Business Platform",
+  "description": "Unified business platform for Highland Gardens managing operations from production to customer across sales, M-PESA orders, inventory, quality, and wholesale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
